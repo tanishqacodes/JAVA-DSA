@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ARRAYS/ARRAYS.iml" filepath="$PROJECT_DIR$/ARRAYS/ARRAYS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CONDITIONAL_AND_LOOP/CONDITIONAL_AND_LOOP.iml" filepath="$PROJECT_DIR$/CONDITIONAL_AND_LOOP/CONDITIONAL_AND_LOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA-DSA.iml" filepath="$PROJECT_DIR$/.idea/JAVA-DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/METHODS/METHODS.iml" filepath="$PROJECT_DIR$/METHODS/METHODS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STACK/STACK.iml" filepath="$PROJECT_DIR$/STACK/STACK.iml" />
+    </modules>
+  </component>
+</project>
